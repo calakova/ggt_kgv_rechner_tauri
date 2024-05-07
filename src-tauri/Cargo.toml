@@ -1,7 +1,7 @@
 [package]
 name = "ggt_kgv_rechner"
 version = "0.1.0"
-description = "A calculator that takes to integers and returns their gcd and lcm"
+description = "A calculator that takes two integers and returns their gcd and lcm"
 authors = ["Christoph Wiesenhofer"]
 edition = "2021"
 
