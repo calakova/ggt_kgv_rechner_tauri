@@ -1,0 +1,12 @@
+{
+  "name": "ggt_kgv_rechner",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1"
+  }
+}
